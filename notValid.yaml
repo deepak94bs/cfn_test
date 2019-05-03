@@ -43,7 +43,7 @@ Resources:
       ImageId: ami-123456
       Tags:
       -
-        Key: application
+        Key: applications
         Value: !Ref ApplicationName
       -
         Key: environment
